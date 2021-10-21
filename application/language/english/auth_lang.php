@@ -146,3 +146,5 @@ $lang['reset_password_validation_new_password_confirm_label'] = 'Confirm New Pas
 //common lang
 
 $lang['save']                               = 'Save';
+
+$lang['it_will_work'] = 'It Will Work';
